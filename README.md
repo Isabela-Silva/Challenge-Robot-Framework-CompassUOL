@@ -35,7 +35,7 @@ git clone git@github.com:Isabela-Silva/Challenge-Robot-Framework-CompassUOL.git
 ```
 cd Challenge-Robot-Framework-CompassUOL
 ```
-- Crie e ative o ambiente Conda:
+- Crie e ative o ambiente Conda: *se não tiver o conda, vai precisar baixá-lo em: https://www.anaconda.com/download*
 ```
 conda env create -f environment.yml
 ```
@@ -63,3 +63,5 @@ ROBOT FRAMEWORK, disponível em: https://robotframework.org/.
 REQUESTLIBRARY, disponível em: https://docs.robotframework.org/docs/different_libraries/requests
 
 RESTFUL-BOOKER, disponível em: https://restful-booker.herokuapp.com/
+
+BAIXAR CONDA, disponível em: https://www.anaconda.com/download
