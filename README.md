@@ -17,12 +17,21 @@
 ## O que é RequestLibrary?
 *É uma biblioteca que visa fornecer funcionalidades de teste de API HTTP para GET, POST, PUT etc.*
 
+## O que é Collection Library?
+*É uma biblioteca para organizar e reutilizar palavras-chave e variáveis no Robot Framework, funcionando como um conjunto de recursos extras.*
+
+## Variáveis:
+- ${base_url}: variável que guarda a base url da API
+- ${response}: variável que guarda a resposta (status, json)
+- ${bookingid}: variável que guarda o id da reserva criada.
+- ${token}: variável que guarda o token de autenticação.
+
 
 ## Ultimo resultado:
 
 *- Todos os testes passaram*
 
-<img width="691" height="492" alt="image" src="https://github.com/user-attachments/assets/0a036d06-65bc-451b-8e8a-42dafdc2ddc7" />
+<img width="491" height="292" alt="image" src="https://github.com/user-attachments/assets/0a036d06-65bc-451b-8e8a-42dafdc2ddc7" />
 
 
 ## Refências Bibliográficas:
