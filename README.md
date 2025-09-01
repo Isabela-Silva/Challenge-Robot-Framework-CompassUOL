@@ -1,0 +1,29 @@
+# Challenge Robot Framework
+
+*Desafio do estágio em AWS & AI for Software Quality Engineering da Compass UOL realizado para colocar em prática aprendizados sobre testes automatizados com Robot Framework*
+
+<img width="260" height="160" alt="image" src="https://github.com/user-attachments/assets/b8921687-1a04-41f7-85be-b838c2c3ccde" />
+
+
+# O que é Robot Framework?
+*É um framework de automação de testes de código aberto, sua sintaxe é amigável e usa palavras-chaves e oferece suporte à extensão por meio de biblioteca em Python, Java e outras linguagens.*
+
+<img width="151" height="151" alt="image" src="https://github.com/user-attachments/assets/a34ff69e-4c89-4571-a74e-8eea4d1095d9" />
+
+
+## O que é RequestLibrary?
+*É uma biblioteca que visa fornecer funcionalidades de teste de API HTTP para GET, POST, PUT etc.*
+
+
+## Ultimo resultado:
+
+*- Todos os testes passaram*
+
+<img width="691" height="492" alt="image" src="https://github.com/user-attachments/assets/0a036d06-65bc-451b-8e8a-42dafdc2ddc7" />
+
+
+## Refências Bibliográficas:
+
+ROBOT FRAMEWORK, disponível em: https://robotframework.org/.
+
+REQUESTLIBRARY, disponível em: https://docs.robotframework.org/docs/different_libraries/requests
