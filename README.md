@@ -26,6 +26,28 @@
 - ${bookingid}: variável que guarda o id da reserva criada.
 - ${token}: variável que guarda o token de autenticação.
 
+## Como acessar?
+- Primeiro clone o repositório:
+```
+git clone git@github.com:Isabela-Silva/Challenge-Robot-Framework-CompassUOL.git
+```
+- Depois acesse a pasta:
+```
+cd Challenge-Robot-Framework-CompassUOL
+```
+- Crie e ative o ambiente Conda:
+```
+conda env create -f environment.yml
+```
+- Ative o ambiente:
+```
+conda activate base
+```
+- Execute o teste:
+```
+robot MeuTeste.robot
+```
+
 
 ## Ultimo resultado:
 
